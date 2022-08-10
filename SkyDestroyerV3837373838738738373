@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("Sky Destroyer By Thorfinn", "Ocean")
+local Window = Library.CreateLib("Sky Destroyer V3 By Perseus", "Ocean")
 
 local Player = Window:NewTab("Player")
 
